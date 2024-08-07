@@ -1,0 +1,8 @@
+foo1:
+  type: str
+  help: "Add first string: "
+  default: world
+
+_exclude:
+  - "*"
+  - "!pj"
